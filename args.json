@@ -1,0 +1,8 @@
+{
+    "ANSIBLE_MODULE_ARGS": {
+        "_ansible_check_mode": false,
+        "_ansible_diff": false,
+        "path": "C:\\tempx",
+        "state": "absent"
+    }
+}
